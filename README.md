@@ -19,4 +19,4 @@ CC-BY SA 4.0
 - [MosasoM/inappropriate-words-ja](https://github.com/MosasoM/inappropriate-words-ja)
 
 ## Attribution
-- [JmdictFurigana](https://github.com/Doublevil/JmdictFurigana) is released under the CC BY-SA.
+- [JmdictFurigana](https://github.com/Doublevil/JmdictFurigana) is licensed under the CC BY-SA.
