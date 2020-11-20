@@ -20,7 +20,6 @@ function build(idiomLength) {
     }
     fs.writeFileSync('dist/siritori.json', JSON.stringify(siritori));
   })();
-  fs.renameSync('dist', `kanji-${idiomLength}-all`);
 }
 
 build(2);
