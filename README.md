@@ -2,8 +2,10 @@
 JmdictFurigana からニ文字熟語や三文字熟語を機械的に生成します。
 
 ## Installation
-1. install [JmdictFurigana](https://github.com/Doublevil/JmdictFurigana/releases)
-2. ```npm install```
+- install
+  [MosasoM/inappropriate-words-ja](https://github.com/MosasoM/inappropriate-words-ja)
+  licensed under the MIT
+- install [JmdictFurigana](https://github.com/Doublevil/JmdictFurigana/releases) licensed under the CC-BY-SA
 
 ## Usage
 ```
